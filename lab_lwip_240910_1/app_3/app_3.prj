@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="app_3" location="C:/Users/lgonzales/Downloads/eth/lab_lwip_240910_1/app_3" platform="C:/Users/lgonzales/Downloads/eth/lab_lwip_240910_1/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm" platformUID="xilinx:zedboard::0.0(custom)" systemProject="app_3_system" sysConfig="design_1_wrapper" runtime="cpp" cpu="freertos10_xilinx_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="freertos10_xilinx" mssSignature="da2beb3e5dc9652d543e0bf7dcf01b64">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.283293904">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.2084731448" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="HrFreertos_lwip_echo" hasBspSettings="true"/>
+</sdkproject:SdkProject>
